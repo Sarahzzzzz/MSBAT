@@ -41,7 +41,7 @@ You can find the relevant tools and scripts in these folders:
    - **Description**: This folder contains scripts for calculating and analyzing mouse movement speed. Follow the instructions in the documentation to perform the analysis.
 
 3. **Analyzing Mouse Back Bending Angles**
-   - **Folder**: `bending_angle`
+   - **Folder**: `v-w`
    - **Description**: This folder provides tools for analyzing the bending angles of the mouse back. Follow the steps outlined in the documentation to run the analysis.
 
 4. **Detecting Mouse Back Shaking Frequency**
