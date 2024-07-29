@@ -48,8 +48,8 @@ You can find the relevant tools and scripts in these folders:
    - **Folder**: `dorsum`
    - **Description**: This folder contains scripts and tools for detecting the frequency of mouse back shaking. Follow the provided instructions and example data to run the analysis.
 
-Note that for **Analyzing Mouse Back Bending Angles** and **Detecting Mouse Back Shaking Frequency**, you need to train a DLC model beforehand. You can find more information and download DLC from the (https://github.com/DeepLabCut/DeepLabCut).You can contact me for DeepLabCut training parameters and the entire training process.
-
+Note that for **Analyzing Mouse Back Bending Angles** and **Detecting Mouse Back Shaking Frequency**, you need to train a DLC model beforehand. You can find more information and download DLC from the (https://github.com/DeepLabCut/DeepLabCut).You can contact me at [zhangjiajia22@mails.ucas.ac.cn] for our DeepLabCut training parameters and the entire training process.
+ 
 ## Contributing
 
 If you have any suggestions or encounter issues, please submit an issue or pull request. 
