@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 
 # MSBAT (Mouse Shaking Behaviour Analysis Tool)
 
