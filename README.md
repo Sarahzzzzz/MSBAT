@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/00508976-5ed1-469e-94e3-be1602c44808)
+
 # MSBAT (Mouse Shaking Behaviour Analysis Tool)
 
 MSBAT is a tool for analyzing mouse behavior, with the following functionalities:
